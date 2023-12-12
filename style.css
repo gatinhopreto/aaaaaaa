@@ -1,0 +1,62 @@
+body {
+background-color: #d4f0c0;
+}
+body, h1, p {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+}
+body, h1, p {
+    color: #4d2600;
+}
+.classe-centralizada {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+
+    
+}
+.classe-centralizada {
+    text-align: center;
+}
+
+body{
+    background-color: rgb(234, 217, 123);
+    }
+    
+    
+    #banner {
+         width:100%;
+    }
+    
+    .principal{
+       background-color: #946d4b;
+       padding:  30px;
+    }
+    
+    
+    h1{
+    text-align: center;
+    
+    }
+    P {
+    text-align: center;
+    
+    }
+    
+    #missão{
+    font-size: 20px;
+    
+    }
+    
+    em strong {
+    color: #DEB887;
+    
+    }
+    
+    .itens {
+    font-size: italic;
+    
+    }
